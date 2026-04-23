@@ -22,6 +22,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2463-minimum-total-distance-traveled](https://github.com/Aryarup6/LeetcodeUpdates/tree/main/2463-minimum-total-distance-traveled/) | Hard |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/Aryarup6/LeetcodeUpdates/tree/main/2515-shortest-distance-to-target-string-in-a-circular-array/) | Easy |
 | [2573-find-the-string-with-lcp](https://github.com/Aryarup6/LeetcodeUpdates/tree/main/2573-find-the-string-with-lcp/) | Hard |
+| [2615-sum-of-distances](https://github.com/Aryarup6/LeetcodeUpdates/tree/main/2615-sum-of-distances/) | Medium |
 | [2751-robot-collisions](https://github.com/Aryarup6/LeetcodeUpdates/tree/main/2751-robot-collisions/) | Hard |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/Aryarup6/LeetcodeUpdates/tree/main/2946-matrix-similarity-after-cyclic-shifts/) | Easy |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/Aryarup6/LeetcodeUpdates/tree/main/3070-count-submatrices-with-top-left-element-and-sum-less-than-k/) | Medium |
@@ -134,6 +135,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0874-walking-robot-simulation](https://github.com/Aryarup6/LeetcodeUpdates/tree/main/0874-walking-robot-simulation/) | Medium |
 | [1980-find-unique-binary-string](https://github.com/Aryarup6/LeetcodeUpdates/tree/main/1980-find-unique-binary-string/) | Medium |
+| [2615-sum-of-distances](https://github.com/Aryarup6/LeetcodeUpdates/tree/main/2615-sum-of-distances/) | Medium |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/Aryarup6/LeetcodeUpdates/tree/main/2840-check-if-strings-can-be-made-equal-with-operations-ii/) | Medium |
 | [3488-closest-equal-element-queries](https://github.com/Aryarup6/LeetcodeUpdates/tree/main/3488-closest-equal-element-queries/) | Medium |
 | [3548-equal-sum-grid-partition-ii](https://github.com/Aryarup6/LeetcodeUpdates/tree/main/3548-equal-sum-grid-partition-ii/) | Hard |
@@ -149,6 +151,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/Aryarup6/LeetcodeUpdates/tree/main/1878-get-biggest-three-rhombus-sums-in-a-grid/) | Medium |
+| [2615-sum-of-distances](https://github.com/Aryarup6/LeetcodeUpdates/tree/main/2615-sum-of-distances/) | Medium |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/Aryarup6/LeetcodeUpdates/tree/main/3070-count-submatrices-with-top-left-element-and-sum-less-than-k/) | Medium |
 | [3129-find-all-possible-stable-binary-arrays-i](https://github.com/Aryarup6/LeetcodeUpdates/tree/main/3129-find-all-possible-stable-binary-arrays-i/) | Medium |
 | [3130-find-all-possible-stable-binary-arrays-ii](https://github.com/Aryarup6/LeetcodeUpdates/tree/main/3130-find-all-possible-stable-binary-arrays-ii/) | Hard |
