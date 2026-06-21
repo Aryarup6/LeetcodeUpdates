@@ -24,6 +24,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1727-largest-submatrix-with-rearrangements](https://github.com/Aryarup6/LeetcodeUpdates/tree/main/1727-largest-submatrix-with-rearrangements/) | Medium |
 | [1732-find-the-highest-altitude](https://github.com/Aryarup6/LeetcodeUpdates/tree/main/1732-find-the-highest-altitude/) | Easy |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/Aryarup6/LeetcodeUpdates/tree/main/1752-check-if-array-is-sorted-and-rotated/) | Easy |
+| [1833-maximum-ice-cream-bars](https://github.com/Aryarup6/LeetcodeUpdates/tree/main/1833-maximum-ice-cream-bars/) | Medium |
 | [1848-minimum-distance-to-the-target-element](https://github.com/Aryarup6/LeetcodeUpdates/tree/main/1848-minimum-distance-to-the-target-element/) | Easy |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/Aryarup6/LeetcodeUpdates/tree/main/1855-maximum-distance-between-a-pair-of-values/) | Medium |
 | [1861-rotating-the-box](https://github.com/Aryarup6/LeetcodeUpdates/tree/main/1861-rotating-the-box/) | Medium |
@@ -84,6 +85,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/Aryarup6/LeetcodeUpdates/tree/main/1536-minimum-swaps-to-arrange-a-binary-grid/) | Medium |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/Aryarup6/LeetcodeUpdates/tree/main/1727-largest-submatrix-with-rearrangements/) | Medium |
+| [1833-maximum-ice-cream-bars](https://github.com/Aryarup6/LeetcodeUpdates/tree/main/1833-maximum-ice-cream-bars/) | Medium |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/Aryarup6/LeetcodeUpdates/tree/main/2078-two-furthest-houses-with-different-colors/) | Easy |
 | [2126-destroying-asteroids](https://github.com/Aryarup6/LeetcodeUpdates/tree/main/2126-destroying-asteroids/) | Medium |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Aryarup6/LeetcodeUpdates/tree/main/2144-minimum-cost-of-buying-candies-with-discount/) | Easy |
@@ -320,6 +322,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [1340-jump-game-v](https://github.com/Aryarup6/LeetcodeUpdates/tree/main/1340-jump-game-v/) | Hard |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/Aryarup6/LeetcodeUpdates/tree/main/1727-largest-submatrix-with-rearrangements/) | Medium |
+| [1833-maximum-ice-cream-bars](https://github.com/Aryarup6/LeetcodeUpdates/tree/main/1833-maximum-ice-cream-bars/) | Medium |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/Aryarup6/LeetcodeUpdates/tree/main/1878-get-biggest-three-rhombus-sums-in-a-grid/) | Medium |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/Aryarup6/LeetcodeUpdates/tree/main/2033-minimum-operations-to-make-a-uni-value-grid/) | Medium |
 | [2126-destroying-asteroids](https://github.com/Aryarup6/LeetcodeUpdates/tree/main/2126-destroying-asteroids/) | Medium |
@@ -421,4 +424,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2196-create-binary-tree-from-descriptions](https://github.com/Aryarup6/LeetcodeUpdates/tree/main/2196-create-binary-tree-from-descriptions/) | Medium |
+## Counting Sort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1833-maximum-ice-cream-bars](https://github.com/Aryarup6/LeetcodeUpdates/tree/main/1833-maximum-ice-cream-bars/) | Medium |
 <!---LeetCode Topics End-->
